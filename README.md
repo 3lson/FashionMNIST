@@ -60,6 +60,21 @@ Sneaker
 Bag
 Ankle boot2
 
+## What I Learned
+Working with the Fashion MNIST dataset has taught me the following:
+
+1. **Image Classification Basics**: Understanding the core concepts of image classification using a real-world dataset.
+
+2. **Data Preprocessing**: I learned how to preprocess image data, including scaling pixel values and reshaping images for training models.
+
+3. **Visualization Technique**: Improved my ability to visualize and interpret images using libraries like Matplotlib.
+
+4. **Deep Learning Frameworks**: Gained hands-on experience with TensorFlow and Keras, particularly in loading and managing datasets.
+
+5. **Model Evaluation**: Understanding how to split data into training and testing sets, and evaluate models based on performance metrics.
+
+6. **Working with Labels**: Learned how to interpret labels and associate them with the corresponding clothing categories.
+
 ## Additional Resources
 Official Fashion MNIST GitHub repository: https://github.com/zalandoresearch/fashion-mnist
 TensorFlow Fashion MNIST tutorial: https://www.tensorflow.org/tutorials/keras/classification
